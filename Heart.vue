@@ -51,6 +51,7 @@ export default {
     fill: #FFBAE8;
     fill-opacity: 0; 
     stroke-opacity: 1;
+    cursor: pointer;
 }
 
 .filledHeart {
@@ -59,6 +60,7 @@ export default {
     fill: #FFBAE8;
     fill-opacity: 1; 
     stroke-opacity: 1;
+    cursor: pointer;
 }
 
 .ripple {
